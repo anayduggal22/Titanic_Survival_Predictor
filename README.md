@@ -1,12 +1,12 @@
 # 🚢 Titanic Survival Predictor
 
+A Machine Learning project that predicts whether a passenger would survive the Titanic disaster using classification algorithms and feature engineering.
+
 ![Feature Importance](feature_importance.png)
 
 ![Confusion Matrix](confusion_matrix.png)
 
 ![EDA](eda.png)
-
-A Machine Learning project that predicts whether a passenger would survive the Titanic disaster using classification algorithms and feature engineering.
 
 ---
 
